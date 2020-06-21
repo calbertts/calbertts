@@ -1,0 +1,61 @@
+{
+    "description": "Personal blogging theme for Stackbit",
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "Carlos Alberto",
+        "tagline": "Header Tagline",
+        "profile_img": "images/avatar.png",
+        "background": "dark",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "type": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "type": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "type": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "type": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "type": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/@calbertts",
+                "type": "icon",
+                "icon_class": "fa-twitter",
+                "new_window": true
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "links": [
+            {
+                "label": "Made with Stackbit.",
+                "url": "https://www.stackbit.com",
+                "type": "link",
+                "new_window": true
+            }
+        ]
+    },
+    "title": "Stackbit Fresh Theme"
+}
