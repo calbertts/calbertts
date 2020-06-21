@@ -168,7 +168,7 @@ models:
               author name will be used.
           - type: string
             name: tagline
-            label: Header Tagline
+            label: FullStack Software Developer
             description: The tagline displayed on the left side.
           - type: image
             name: profile_img
